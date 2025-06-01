@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+psycopg2-binary
+python-dotenv
+passlib[bcrypt]
+python-jose[cryptography]
+deepseek
+pytest
+pytest-flask
